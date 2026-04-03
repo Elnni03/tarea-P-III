@@ -22,3 +22,4 @@ Abrir en: http://127.0.0.1:5000
 ##Feature: Login Form
 ## Feature: User Dashboard
 ## Feature: Create Task - Formulario para crear tareas
+## Hotfix: Fix Date Format - Correccion de formato de fecha
