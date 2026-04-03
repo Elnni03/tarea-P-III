@@ -21,3 +21,4 @@ Abrir en: http://127.0.0.1:5000
 - JSON como almacenamiento
 ##Feature: Login Form
 ## Feature: User Dashboard
+## QA: User Dashboard validado
